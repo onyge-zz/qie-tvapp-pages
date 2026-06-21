@@ -1,2 +1,14 @@
 # qie-tvapp-pages
-HTML page archive and documentation
+
+页面文件整理目录
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
